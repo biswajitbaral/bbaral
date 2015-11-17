@@ -1,0 +1,15 @@
+package string;
+
+public class UkkonensAlgo
+{
+
+    /**
+     * @param args
+     */
+    public static void main(String[] args)
+    {
+        // TODO Auto-generated method stub
+
+    }
+
+}

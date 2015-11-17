@@ -36,8 +36,8 @@ public class LcSubstring
 
     public static void main(String[] args)
     {
-        String str1 = "abcdef";
-        String str2 = "lbcdk";
+        String str1 = "abacba";
+        String str2 = "abcaba";
         int len = LcSubstring(str1, str2);
         System.out.println(len);
 

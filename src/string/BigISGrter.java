@@ -62,7 +62,7 @@ public class BigISGrter
         while (t-- > 0)
         {
             String str = in.nextLine();
-            System.out.println(a++);
+
             System.out.println(FindLexoGraphBig(str));
 
         }

@@ -4,7 +4,11 @@ public class CuttingRod
 {
 
     /**
-     * Cutting Rod To Manage Proffit Length Price 1 > 2 2 > 5 3 > 7 4 > 8
+     * Cutting Rod To Manage Proffit Length Price 
+     * 1 > 2
+     * 2 > 5 
+     * 3 > 7 
+     * 4 > 8
      * 
      * Have to cut in total length =5 , so that it will give maximum price.
      * 

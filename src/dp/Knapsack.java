@@ -6,7 +6,8 @@ public class Knapsack
     /**
      * Weights w1 w2 w3 w4 value v1 v2 v3 v4
      * 
-     * W - 2 3 4 5 v - 3 4 5 6
+     * W - 2 3 4 5 
+     * v - 3 4 5 6
      * 
      * for sum=5 , max value = 7
      * 

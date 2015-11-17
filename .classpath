@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/nccm/shadow_40/pari/nccm_kb/Tools/ConfigCompare/libs/commons-cli-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/nccm/shadow_40/pari/nccm_kb/Tools/ConfigCompare/libs/java-gearman-service-0.6.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/nccm/shadow_40/pari/nccm_kb/Tools/ConfigCompare/libs/json-simple-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/nccm/shadow_40/pari/nccm_kb/Tools/ConfigCompare/libs/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/nccm/shadow_40/pari/nccm_kb/Tools/ConfigCompare/libs/slf4j-api-1.7.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/nccm/shadow_40/pari/nccm_kb/Tools/ConfigCompare/libs/slf4j-log4j12-1.7.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/nccm/shadow_40/pari/nccm_kb/Tools/ConfigCompare/libs/jna-3.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/nccm/shadow_40/pari/nccm_kb/Tools/ConfigCompare/libs/apache-ant-1.8.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/kafka"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
